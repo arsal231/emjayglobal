@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "EmjayGlobal",
+    "slug": "emjayglobal-project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.emjaycompany.globallynks",
+      "buildNumber": "4.0.0",
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.emjaycompany.globallynks"
+    }
+  }
+}
